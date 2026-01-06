@@ -6,7 +6,7 @@ import { Toaster } from 'react-hot-toast';
 function App() {
   return (
     <>
-    //this is a comment bro 2 2
+    //this is a comment bro 2 2 final
       <Toaster />
       <Header />
       <Main />
